@@ -27,6 +27,7 @@ nvcc contrast.cpp contrast-enhancement.cpp histogram-equalization.cpp -o contras
 
 Note: You need a Nvidia graphic card.
 
+# More Info
 
 The application needs two input images:
 
